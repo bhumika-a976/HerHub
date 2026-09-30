@@ -1,0 +1,13 @@
+# Operating System & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Vercel deployment cache
+.vercel/
+
+# Python cache & state
+__pycache__/
+*.pyc
+user_state.json
